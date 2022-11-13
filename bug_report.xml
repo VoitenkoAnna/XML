@@ -1,1 +1,6 @@
 
+<Environment>Win 10 Chrom</Environment>
+<Title>Иконка Вайбер в блоке обратной связи не активна</Title>
+<Steps>Открыть блок обратной связи</Steps>
+<Expected Result>Иконка Вайбер активна</Expected Result>
+<Actual Result>Иконка Вайбер не активна</Actual Result>
